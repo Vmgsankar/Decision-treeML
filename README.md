@@ -34,10 +34,6 @@ The dataset contains various customer attributes and their corresponding loan st
   - `seaborn`
   - `scikit-learn`
 
-You can install the required dependencies by running:
-```bash
-pip install -r requirements.txt
-```
 
 ## Installation
 1. Clone the repository:
